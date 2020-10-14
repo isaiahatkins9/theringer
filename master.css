@@ -1,0 +1,229 @@
+.nav {
+  background-color: black;
+  align-items: center;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: black;
+  color:white;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  font-family:sans-serif;
+  align-items: center;
+  text-align: center;
+  padding: 14px 20px;
+  height: 50%;
+  text-decoration: none;
+  font-size: 25px;
+  border-radius: 2pt;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.heading {
+  font-family: sans-serif;
+  font-weight: bolder;
+  font-size: 25pt;
+  text-align: center;
+  text-shadow: 1pt 1pt #4CAF50;
+  text-transform: capitalize;
+
+}
+.heading2 {
+  font-family: sans-serif;
+  font-weight: bolder;
+  font-size: 15pt;
+  text-align: center;
+  text-shadow: 1pt 1pt #4CAF50;
+  text-transform: capitalize;
+
+}
+.brief {
+  font-style: italic;
+  float:inherit;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.hoverart :hover{
+  background-color: #4CAF50;
+  border-radius: 2pt;
+  padding:5pt;
+  box-shadow: 3pt 3pt black;
+  color: white;
+  text-shadow: 2pt 2pt black;
+}
+.hoverpodart {
+
+}
+.hoverpodart :hover{
+  background-color: #4CAF50;
+  border-radius: 2pt;
+  padding:5pt;
+  box-shadow: 0pt 5pt black;
+  color: white;
+  text-shadow: 2pt 2pt black;
+}
+.hoverart {
+  color:black;
+}
+
+
+a.green:link{
+  color: white;
+  background-color: black;
+}
+a.green:visited{
+  color: white;
+  background-color: black;
+}
+a.green:hover{
+  background-color: #4CAF50;
+  color: white;
+}
+
+}
+a {
+    color: black;
+}
+a:visited {
+    color: black;
+}
+a:hover {
+    color: black;
+}
+a:active {
+    color: black;
+}
+a:link, a:visited {
+    text-decoration: none;
+}
+a:hover, a:active {
+    text-decoration: none;
+}
+.red {
+  color: black;
+}
+
+
+.bottomnav {
+  background-color: white;
+  color:#f2f2f2;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.bottomnav a {
+  float: left;
+  color: #f2f2f2;
+  font-family:sans-serif;
+  align-items: center;
+  text-align: center;
+  padding: 14px 20px;
+  height: 50%;
+  text-decoration: none;
+  font-size: 25px;
+  border-radius: 2pt;
+}
+
+/* Change the color of links on hover */
+.bottomnav a:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+/* Add a color to the active/current link */
+.bottomnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.bnav {
+  background-color: white;
+  align-items: center;
+}
+.homescreenimg{
+  box-shadow: 3pt 3pt black;
+}
+
+.heading3 {
+  font-family: sans-serif;
+  font-weight: bolder;
+  font-size: 75pt;
+  text-align: left;
+  text-shadow: 5pt 0pt #4CAF50;
+  text-transform: capitalize;
+
+}
+.heading5  {
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 25pt;
+    text-align: left;
+    text-shadow: 1pt 1pt #4CAF50;
+    text-transform: capitalize;
+  }
+  .heading6  {
+      font-family: sans-serif;
+      font-weight: bolder;
+      font-size: 10pt;
+      text-align: left;
+      text-transform: capitalize;
+    }
+
+    .heading7  {
+        font-family: sans-serif;
+        font-style: italic;
+        font-weight: italic;
+        font-size: 15pt;
+        text-align: left;
+        text-transform: capitalize;
+      }
+
+      .heading8  {
+          font-family: sans-serif;
+          font-weight: bolder;
+          font-size: 25pt;
+          text-align: left;
+          text-shadow: 1pt 1pt #4CAF50;
+          text-transform: capitalize;
+        }
+
+        .article {
+          font-family: serif;
+          font-weight: lighter;
+          font-size: 18pt;
+          color: #696969;
+        }
+        .blockgreen {
+          background-color: #4CAF50;
+          height: 25pt;
+        }
+
+        .divider {
+          color: #4CAF50;
+        }
+        .heading10 {
+          font-family: sans-serif;
+          font-weight: bolder;
+          font-size: 50pt;
+          text-align: center;
+          text-shadow: 5pt 0pt #4CAF50;
+          text-transform: capitalize;
